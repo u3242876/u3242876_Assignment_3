@@ -1,3 +1,5 @@
+RATIONALE
+
 I aimed to translate my website prototype of Architect Robin Boyd’s work, into a functioning code that can be used. I started off by following my prototype closely, and that paid off. Having a clear design in front of me meant I always knew what to code next, and I felt confident breaking the work into bite-sized pieces. The sticky navigation bar was a big win—I love how it stays at the top while you scroll, and it makes the usability of the site more accessible.
 
 On the flip side, Implementing tables for layout was harder than anticipated; I had to revisit CSS properties repeatedly to maintain correct spacing and responsiveness. The biggest hurdle was the image slider feature that was in my initial prototype. It was an olive-green carousel showcasing Boyd’s diverse portfolio on the homepage. Despite extensive research, I struggled to assemble the multiple interlocking components in a stable, responsive way. After several, I decided to go with a simpler image gallery. While it departs slightly from my original vision, I’m pleased with its clean look.
