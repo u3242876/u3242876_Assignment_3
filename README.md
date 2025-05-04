@@ -26,5 +26,6 @@ A recurring frustration was my folder and file naming. Early on, I used arbitrar
 This project deepened my appreciation for the gap between design and implementation. While prototypes are invaluable guides, real-world constraints sometimes demand creative pivots - as with the image gallery substitute. Moving forward, I’ll invest more time in naming conventions upfront and prototype interactivity earlier, perhaps by creating simple live demos before coding full pages. Overall, the experience strengthened my HTML, CSS, and JavaScript skills, and I’m excited to build on this foundation in future web design projects.
 
 
-http://127.0.0.1:5500/index.html
+https://u3242876.github.io/u3242876_Assignment_3/
+ 
 
